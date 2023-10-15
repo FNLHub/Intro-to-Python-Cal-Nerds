@@ -2,5 +2,13 @@
 
 ## Day 1
 
-### Overview
-
+### Data Types
+- Strings
+- Numerals: Integer, Float
+- Booleans: (True, False) or (1 - True, 0 - False)
+  
+### Data Structures
+- List
+- Arrays
+- Tuples
+- Dictionaries
