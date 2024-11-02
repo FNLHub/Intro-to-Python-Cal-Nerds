@@ -1,2 +1,2 @@
-# Intro-to-Python-Cal-Nerds-2023
+# Intro-to-Python-Cal-Nerds
 Introduction to Python
